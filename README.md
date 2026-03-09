@@ -7,21 +7,22 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 </h1>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&lines=프론트엔드+경험을+바탕으로;AI+서비스를+만드는;개발자+최은영입니다."/>
+</p>
+
+<p align="center">
 Frontend Developer ➜ AI Engineer
 </p>
 
-<p align="center" width="150px">
+<div align="center">
 
-프론트엔드 경험을 바탕으로  
-**AI 서비스를 만드는 개발자 최은영입니다.**
+프론트엔드 경험을 바탕으로 **AI 서비스를 만드는 개발자 최은영입니다.**
 
 웹 서비스를 개발하며 사용자 중심의 제품 개발 경험을 쌓았고  
 
-현재는  
+현재는 AI 모델과 실제 사용자 경험을 연결하는 **AI 기반 서비스 개발**을 공부하고 있습니다.
 
-AI 모델과 실제 사용자 경험을 연결하는 **AI 기반 서비스 개발**을 공부하고 있습니다.
-
-</p>
+</div>
 
 ---
 
