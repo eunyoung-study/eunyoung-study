@@ -7,7 +7,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&lines=프론트엔드+경험을+바탕으로;AI+서비스를+만드는;개발자+최은영입니다."/>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&lines=AI기술을+서비스로+연결하는;최은영입니다."/>
 </p>
 
 <p align="center">
