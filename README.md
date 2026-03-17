@@ -40,7 +40,7 @@
 
 ### OpenTripPlanner
 [![Front](https://img.shields.io/badge/Front-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Team-Y-FI/OpenTripPlanner-Front)
-[![BackEnd](https://img.shields.io/badge/BackEnd-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Team-Y-FI/OpenTripPlanner-Backend)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Team-Y-FI/OpenTripPlanner-Backend)
 
 **단순 장소 추천을 넘어, 일정을 설계해주는 스마트 여행 지원 서비스**
 
@@ -54,7 +54,7 @@ React Native · TypeScript · Expo · FastAPI · Python · PostgreSQL
 
 ### Mongle · 몽글몽글
 [![Front](https://img.shields.io/badge/Front-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mongle-project/front)
-[![BackEnd](https://img.shields.io/badge/BackEnd-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mongle-project/back)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mongle-project/back)
 
 **반려동물의 건강 관리, 일정 관리, 커뮤니티 기능을 통합한 풀스택 웹 플랫폼**
 
